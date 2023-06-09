@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Allianz TR as an Intern<br>🌱 I’m currently learning Java, SQL, Python, Spring Boot, Angular<br>
+🔭 I’m currently working on Allianz TR as an Full Stack Developer Intern<br>🌱 I’m currently learning Java, SQL, Python, Spring Boot, Angular<br>
 
 
 ## 🌐 Socials:
