@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Allianz TR as a Full Stack Developer<br>🌱 I’m currently learning Java, SQL, Python, Spring Boot, Angular<br>Besides, I have been trading and developing projects on crypto exchanges for years.
+🔭 I’m currently working on Allianz TR as a Full Stack Developer<br>🌱 I’m currently learning Java, SQL, Python, Spring Boot, NextJS, Angular<br>Besides, I have been trading and developing projects on crypto exchanges for years.
 
 
 ## 🌐 Socials:
