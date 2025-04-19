@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Ufuk Kaan Guven</h1>
+<h1>Hi 👋, I'm Kaan Guven</h1>
 🔭 I’m currently working on Allianz TR as a Full Stack Developer<br>🌱 I’m currently learning Java, SQL, Python, Spring Boot, NextJS, Angular<br>
 <h2>🚀 Tech Stack</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="42" height="42" /></a>
