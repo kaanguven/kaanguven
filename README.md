@@ -48,13 +48,12 @@
   <li>Work with SQL databases and modern frontend stacks</li>
 </ul>
 
-<h2>📊 GitHub Stats</h2>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kaanguven&show_icons=true&locale=en" alt="kaanguven" />
-</p>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kaanguven&show_icons=true&locale=en&layout=compact" alt="kaanguven" />
-</p>
+## 📊 GitHub Stats
+
+![Kaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaanguven&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=1800)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaanguven&layout=compact&langs_count=8&cache_seconds=1800)
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=kaanguven&no-frame=true&row=1&column=6)
 <p>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=kaanguven" alt="kaanguven" />
